@@ -1,6 +1,5 @@
 #include "main.h"
 #include <iostream>
-#include "aim.h"
 #include "offsets.h"
 #include <algorithm>
 #include <math.h>
